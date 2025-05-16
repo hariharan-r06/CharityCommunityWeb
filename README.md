@@ -18,3 +18,33 @@ Open `server/index.js` and replace the placeholder MongoDB URI with your own:
 
 const MONGODB_URI = 'your-mongodb-url';
 
+
+## Screenshots
+
+![Screenshot 1](assets/Screenshot%202025-05-16%20194641.png)
+
+![Screenshot 2](assets/Screenshot%202025-05-16%20194707.png)
+
+![Screenshot 3](assets/Screenshot%202025-05-16%20194719.png)
+
+![Screenshot 4](assets/Screenshot%202025-05-16%20194850.png)
+
+![Screenshot 5](assets/Screenshot%202025-05-16%20194949.png)
+
+![Screenshot 6](assets/Screenshot%202025-05-16%20195020.png)
+
+![Screenshot 7](assets/Screenshot%202025-05-16%20195148.png)
+
+![Screenshot 8](assets/Screenshot%202025-05-16%20195049.png)
+
+
+
+
+
+
+
+
+
+
+
+
