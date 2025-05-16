@@ -11,11 +11,9 @@ app.use(express.json({ limit: '50mb' }));
 app.use(express.urlencoded({ extended: true, limit: '50mb' }));
 
 
-<<<<<<< HEAD
-const MONGODB_URI = 'mongodb+srv://harihari91408:Hari123456@cc.trjljib.mongodb.net/?retryWrites=true&w=majority&appName=CC';
-=======
-const MONGODB_URI = 'your url';
->>>>>>> fba60b6d640eb49447538c7729e830389b62f96f
+
+const MONGODB_URI = '';
+
 
 mongoose.connect(MONGODB_URI)
   .then(() => console.log('Connected to MongoDB Atlas'))
